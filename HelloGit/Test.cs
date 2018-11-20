@@ -12,10 +12,12 @@ namespace HelloGit
 
         public string S { get; set; }
         public int tal { get; set; }
+        
 
-        public Test()
+        public Test(string s)
         {
-            
+            S = s;
+            Console.WriteLine("Dette er en test");
         }
     }
 }
