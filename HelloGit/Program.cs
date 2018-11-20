@@ -15,7 +15,7 @@ namespace HelloGit
             {
                 Console.WriteLine(i);
             }
-            Console.WriteLine("Dette er en test lavet på server");
+            Console.WriteLine("Dette er en test lavet lokalt");
             Console.ReadLine();
             Console.ReadLine(); //Linjeskift
         }
