@@ -17,6 +17,7 @@ namespace HelloGit
             }
             Console.WriteLine("Dette er en test");
             Console.ReadLine();
+            Console.ReadLine(); //Linjeskift
         }
     }
 }
