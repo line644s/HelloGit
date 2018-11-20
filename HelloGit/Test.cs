@@ -13,9 +13,11 @@ namespace HelloGit
         public string S { get; set; }
         public int tal { get; set; }
 
+
+
         public Test()
         {
-            
+            Console.WriteLine("Dette er en test");
         }
     }
 }
