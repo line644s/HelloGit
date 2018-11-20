@@ -11,6 +11,10 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
             Console.WriteLine("Dette er en test");
             Console.ReadLine();
         }
